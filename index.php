@@ -388,9 +388,7 @@ include_once('dados/complementos.php');
 
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="vegas/vegas.min.js"></script>
-     <script
-  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA1mK6ItyOVlA81g0A_q6xP2IP7H0TtTv0&ampcallback=initMap;sensor=false">
+    
   </script>
   <script src="js/valida.js"></script>
   <script src="js/funcao.js"></script>
